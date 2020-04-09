@@ -1,3 +1,3 @@
 # Cryptocoin CLI
 
-
+### Notes
